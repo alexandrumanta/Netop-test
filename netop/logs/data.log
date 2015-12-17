@@ -1,0 +1,493 @@
+16.12.2015 00:46:07 - Added id  in users by  
+	date_created: 2015-12-16 00:46:07
+	date_last_visit: 2015-12-16 00:46:07
+	name: Manta
+	last_name: Alex
+	email: admin@library.ro
+	password: $2y$10$C5QeJJ0/XTHsQVnKxlI8YOgxwkwvym4z/F1gahsaoVatPWkhVm6H.
+	id: 4
+
+----------------------------------------------------------------
+
+16.12.2015 01:04:47 - Adaugare users
+	id: 3
+	name: Manta
+	last_name: Alex
+	email: admin@admin.ro
+	password: $2y$10$lJ9qBeq1ZdLn4eI3qMcjluy0FuyBGzSVilG9NNqG9DYaIVRE9A2B6
+	date_created: 2015-12-16 00:37:50
+	date_last_visit: 2015-12-16 01:04:47
+	token: 
+
+----------------------------------------------------------------
+
+16.12.2015 11:17:28 - Adaugare users
+	id: 3
+	name: Manta
+	last_name: Alex
+	email: admin@admin.ro
+	password: $2y$10$lJ9qBeq1ZdLn4eI3qMcjluy0FuyBGzSVilG9NNqG9DYaIVRE9A2B6
+	date_created: 2015-12-16 00:37:50
+	date_last_visit: 2015-12-16 11:17:28
+	token: 
+
+----------------------------------------------------------------
+
+16.12.2015 11:44:37 - Edited  from users by Manta Alex
+	id: 3
+	name: Manta
+	last_name: Alex
+	email: admin@admin.ro
+	password: $2y$10$lJ9qBeq1ZdLn4eI3qMcjluy0FuyBGzSVilG9NNqG9DYaIVRE9A2B6
+	date_created: 2015-12-16 00:37:50
+	date_last_visit: 2015-12-16 11:44:37
+	token: 
+
+----------------------------------------------------------------
+
+16.12.2015 16:32:09 - Edited  from users by Manta Alex
+	id: 3
+	name: Manta
+	last_name: Alex
+	email: admin@admin.ro
+	password: $2y$10$lJ9qBeq1ZdLn4eI3qMcjluy0FuyBGzSVilG9NNqG9DYaIVRE9A2B6
+	date_created: 2015-12-16 00:37:50
+	date_last_visit: 2015-12-16 16:32:09
+	token: 
+
+----------------------------------------------------------------
+
+16.12.2015 17:37:10 - Added id Arts & Photography in categories by Manta Alex
+	name: Arts & Photography
+	id: 1
+
+----------------------------------------------------------------
+
+16.12.2015 17:41:58 - Added id Business & Investing in categories by Manta Alex
+	name: Business & Investing
+	id: 2
+
+----------------------------------------------------------------
+
+16.12.2015 17:42:23 - Added id Comics & Graphic Novels in categories by Manta Alex
+	name: Comics & Graphic Novels
+	id: 3
+
+----------------------------------------------------------------
+
+16.12.2015 17:42:34 - Added id History in categories by Manta Alex
+	name: History
+	id: 4
+
+----------------------------------------------------------------
+
+16.12.2015 17:42:52 - Added id Literature & Fiction in categories by Manta Alex
+	name: Literature & Fiction
+	id: 5
+
+----------------------------------------------------------------
+
+16.12.2015 17:44:03 - Added id  Science Fiction & Fantasy in categories by Manta Alex
+	name:  Science Fiction & Fantasy
+	id: 6
+
+----------------------------------------------------------------
+
+16.12.2015 17:54:25 - Added id  Science Fiction & Fantasy in categories by Manta Alex
+	name:  Science Fiction & Fantasy
+	id: 7
+
+----------------------------------------------------------------
+
+16.12.2015 18:38:38 - Deleted id 10 from categories by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 18:38:43 - Deleted id 9 from categories by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 18:38:48 - Deleted id 8 from categories by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 18:38:50 - Deleted id 7 from categories by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 18:48:37 - Added id  Science Fiction & Fantasy in categories by Manta Alex
+	name:  Science Fiction & Fantasy
+	id: 11
+
+----------------------------------------------------------------
+
+16.12.2015 18:48:43 - Deleted id 11 from categories by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 18:48:46 - Added id  Science Fiction & Fantasy in categories by Manta Alex
+	name:  Science Fiction & Fantasy
+	id: 12
+
+----------------------------------------------------------------
+
+16.12.2015 18:48:48 - Deleted id 12 from categories by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 18:51:06 - Edited  Science Fiction & Fantas from categories by Manta Alex
+	name:  Science Fiction & Fantas
+
+----------------------------------------------------------------
+
+16.12.2015 18:51:14 - Edited  Science Fiction & Fantasy from categories by Manta Alex
+	name:  Science Fiction & Fantasy
+
+----------------------------------------------------------------
+
+16.12.2015 18:53:03 - Added id Romance in categories by Manta Alex
+	name: Romance
+	id: 13
+
+----------------------------------------------------------------
+
+16.12.2015 18:53:37 - Added id Fashion in categories by Manta Alex
+	name: Fashion
+	id: 14
+
+----------------------------------------------------------------
+
+16.12.2015 18:53:53 - Added id Sports & Outdoors in categories by Manta Alex
+	name: Sports & Outdoors
+	id: 15
+
+----------------------------------------------------------------
+
+16.12.2015 18:54:17 - Added id Children's Books in categories by Manta Alex
+	name: Children's Books
+	id: 16
+
+----------------------------------------------------------------
+
+16.12.2015 18:54:33 - Added id Crafts, Home & Garden in categories by Manta Alex
+	name: Crafts, Home & Garden
+	id: 17
+
+----------------------------------------------------------------
+
+16.12.2015 20:48:53 - Deleted id 13 from categories by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 20:49:00 - Added id Romance in categories by Manta Alex
+	name: Romance
+	id: 18
+
+----------------------------------------------------------------
+
+16.12.2015 20:55:36 - Deleted id 18 from categories by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 20:55:49 - Added id  in categories by Manta Alex
+	name: Romance
+	id: 19
+
+----------------------------------------------------------------
+
+16.12.2015 21:00:53 - Added Humans of New York: Stories in books by Manta Alex
+	name: Humans of New York: Stories
+	id: 1
+
+----------------------------------------------------------------
+
+16.12.2015 21:02:08 - Added Enchanted Forest: An Inky Quest & Coloring Book in books by Manta Alex
+	name: Enchanted Forest: An Inky Quest & Coloring Book
+	id: 2
+
+----------------------------------------------------------------
+
+16.12.2015 21:03:34 - Added  in books by Manta Alex
+	name: Face Paint: The Story of Makeup
+	category_id: 
+	id: 3
+
+----------------------------------------------------------------
+
+16.12.2015 21:05:15 - Edited 20.23 from books by Manta Alex
+	name: Face Paint: The Story of Makeup
+	category_id: 14
+	author: Lisa Eldridge
+	image: 
+	price: 20.23
+
+----------------------------------------------------------------
+
+16.12.2015 21:09:09 - Edited 20.23 from books by Manta Alex
+	name: Face Paint: The Story of Makeup
+	category_id: 6
+	author: Lisa Eldridge
+	image: 
+	price: 20.23
+
+----------------------------------------------------------------
+
+16.12.2015 21:15:31 - Added assets/images/books/Humans_of_New_York:_Stories_banner.jpg in books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 1
+	author: Brandon Stanton
+	image: assets/images/books/Humans_of_New_York:_Stories_banner.jpg
+	id: 4
+
+----------------------------------------------------------------
+
+16.12.2015 21:25:23 - Added assets/images/books/asdad_banner.jpg in books by Manta Alex
+	name: asdad
+	category_id: 
+	author: 
+	image: assets/images/books/asdad_banner.jpg
+	id: 5
+
+----------------------------------------------------------------
+
+16.12.2015 21:25:38 - Deleted id 5 from books by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 21:29:00 - Edited 16.49 from books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 6
+	author: Brandon Stanton
+	image: 
+	price: 16.49
+
+----------------------------------------------------------------
+
+16.12.2015 21:30:41 - Edited 16.49 from books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 1
+	author: Brandon Stanton
+	image: 
+	price: 16.49
+
+----------------------------------------------------------------
+
+16.12.2015 21:31:01 - Edited 16.49 from books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 6
+	author: Brandon Stanton
+	image: 
+	price: 16.49
+
+----------------------------------------------------------------
+
+16.12.2015 21:31:21 - Edited 16.49 from books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 1
+	author: Brandon Stanton
+	image: 
+	price: 16.49
+
+----------------------------------------------------------------
+
+16.12.2015 21:31:55 - Edited assets/images/books/Humans_of_New_York:_Stories_banner.jpg from books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 1
+	author: Brandon Stanton
+	price: 16.49
+	image: assets/images/books/Humans_of_New_York:_Stories_banner.jpg
+
+----------------------------------------------------------------
+
+16.12.2015 21:33:27 - Edited assets/images/books/Humans_of_New_York:_Stories_banner.jpg from books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 6
+	author: Brandon Stanton
+	price: 16.49
+	image: assets/images/books/Humans_of_New_York:_Stories_banner.jpg
+
+----------------------------------------------------------------
+
+16.12.2015 21:34:30 - Added assets/images/books/Humans_of_New_York:_Stories_banner.jpg in books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 1
+	author: Brandon Stanton
+	image: assets/images/books/Humans_of_New_York:_Stories_banner.jpg
+	id: 6
+
+----------------------------------------------------------------
+
+16.12.2015 21:35:19 - Edited assets/images/books/Humans_of_New_York:_Stories_banner.jpg from books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 6
+	author: Brandon Stanton
+	price: 0.00
+	image: assets/images/books/Humans_of_New_York:_Stories_banner.jpg
+
+----------------------------------------------------------------
+
+16.12.2015 21:39:23 - Added assets/images/books/asdadsa_banner.jpg in books by Manta Alex
+	name: asdadsa
+	category_id: 
+	author: 
+	image: assets/images/books/asdadsa_banner.jpg
+	id: 7
+
+----------------------------------------------------------------
+
+16.12.2015 21:39:50 - Added assets/images/books/adsada_adsadada_banner.jpg in books by Manta Alex
+	name: adsada adsadada
+	category_id: 
+	author: 
+	image: assets/images/books/adsada_adsadada_banner.jpg
+	id: 8
+
+----------------------------------------------------------------
+
+16.12.2015 21:40:03 - Edited assets/images/books/adsada_adsadada_banner.jpg from books by Manta Alex
+	name: adsada adsadada
+	category_id: 6
+	author: 
+	price: 0.00
+	image: assets/images/books/adsada_adsadada_banner.jpg
+
+----------------------------------------------------------------
+
+16.12.2015 21:46:12 - Added assets/images/books/Humans_of_New_York:_StoriesassetsimagesbooksHumansofNewYorkStories_banner.jpg in books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 
+	author: 
+	image: assets/images/books/Humans_of_New_York:_StoriesassetsimagesbooksHumansofNewYorkStories_banner.jpg
+	id: 9
+
+----------------------------------------------------------------
+
+16.12.2015 21:47:05 - Deleted id 9 from books by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 21:47:08 - Deleted id 8 from books by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 21:47:10 - Deleted id 7 from books by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 21:47:26 - Added assets/images/books/Humans_of_New_York:_StoriesHumansofNewYorkStories_banner.jpg in books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 
+	author: 
+	image: assets/images/books/Humans_of_New_York:_StoriesHumansofNewYorkStories_banner.jpg
+	id: 10
+
+----------------------------------------------------------------
+
+16.12.2015 21:47:42 - Deleted id 10 from books by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 21:47:50 - Added assets/images/books/HumansofNewYorkStories_banner.jpg in books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 
+	author: 
+	image: assets/images/books/HumansofNewYorkStories_banner.jpg
+	id: 11
+
+----------------------------------------------------------------
+
+16.12.2015 21:48:22 - Deleted id 11 from books by Manta Alex
+
+----------------------------------------------------------------
+
+16.12.2015 21:48:28 - Added assets/images/books/Humans_of_New_York__Stories_banner.jpg in books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 
+	author: 
+	image: assets/images/books/Humans_of_New_York__Stories_banner.jpg
+	id: 12
+
+----------------------------------------------------------------
+
+16.12.2015 21:48:52 - Edited 16.49 from books by Manta Alex
+	name: Humans of New York: Stories
+	category_id: 1
+	author: Brandon Stanton
+	price: 16.49
+
+----------------------------------------------------------------
+
+16.12.2015 22:00:24 - Added assets/images/books/Andy_Goldsworthy__Ephemeral_Works__2004-2014_banner.jpg in books by Manta Alex
+	name: Andy Goldsworthy: Ephemeral Works: 2004-2014
+	category_id: 1
+	author: Andy Goldsworthy
+	image: assets/images/books/Andy_Goldsworthy__Ephemeral_Works__2004-2014_banner.jpg
+	id: 13
+
+----------------------------------------------------------------
+
+16.12.2015 22:00:34 - Edited 56.93 from books by Manta Alex
+	name: Andy Goldsworthy: Ephemeral Works: 2004-2014
+	category_id: 1
+	author: Andy Goldsworthy
+	price: 56.93
+
+----------------------------------------------------------------
+
+16.12.2015 22:02:49 - Added assets/images/books/Dust___Grooves__Adventures_in_Record_Collecting_banner.jpg in books by Manta Alex
+	name: Dust & Grooves: Adventures in Record Collecting
+	category_id: 1
+	author: Eilon Paz
+	image: assets/images/books/Dust___Grooves__Adventures_in_Record_Collecting_banner.jpg
+	id: 14
+
+----------------------------------------------------------------
+
+16.12.2015 22:02:59 - Edited 30.00 from books by Manta Alex
+	name: Dust & Grooves: Adventures in Record Collecting
+	category_id: 1
+	author: Eilon Paz
+	price: 30.00
+
+----------------------------------------------------------------
+
+16.12.2015 22:07:23 - Added assets/images/books/Covert_to_Overt__The_Under_Overground_Art_of_Shepard_Fairey_banner.jpg in books by Manta Alex
+	name: Covert to Overt: The Under/Overground Art of Shepard Fairey
+	category_id: 1
+	author: Shepard Fairey
+	price: 33.06
+	image: assets/images/books/Covert_to_Overt__The_Under_Overground_Art_of_Shepard_Fairey_banner.jpg
+	id: 15
+
+----------------------------------------------------------------
+
+17.12.2015 15:11:36 - Added  in users by Manta Alex
+	id: 5
+
+----------------------------------------------------------------
+
+17.12.2015 15:12:22 - Added  in users by Manta Alex
+	id: 6
+
+----------------------------------------------------------------
+
+17.12.2015 18:21:14 - Added assets/images/books/See_Me_banner.jpg in books by Manta Alex
+	name: See Me
+	category_id: 19
+	author: Nicholas Sparks
+	price: 14.56
+	image: assets/images/books/See_Me_banner.jpg
+	id: 16
+
+----------------------------------------------------------------
+
+17.12.2015 18:32:37 - Added assets/images/books/H_Is_for_Hawk_banner.jpg in books by Manta Alex
+	name: H Is for Hawk
+	category_id: 15
+	author: Helen Macdonald
+	price: 16.60
+	image: assets/images/books/H_Is_for_Hawk_banner.jpg
+	id: 17
+
+----------------------------------------------------------------
+
