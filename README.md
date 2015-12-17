@@ -5,6 +5,10 @@ virtual library
 @version  	Version: 1.0<br />
 @access   	public<br />
 
+Import /netop/database/library.sql<br />
+Use /netop/config/config.php to configure the databse access.<br />
+Use /netop/config/settings.php to configure the paths.<br />
+
 Admin acces<br />
   url: /neop/admin/login.php<br />
   user: admin@admin.ro<br />
@@ -18,6 +22,7 @@ Search interface<br />
   <br />
   Use the input in order to search books by name. Pick a book name from admin section "/netop/admin/books.php".<br />
 <br />
+
 
 
 
