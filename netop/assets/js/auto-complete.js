@@ -5,14 +5,14 @@ $( document ).ready(function() {
 		var keyword = $(".search-filter-input").val();
 		if (keyword.length >= MIN_LENGTH) {
 			$.get( "auto-complete.php", { keyword: keyword } )
-			  .done(function( data ) {
-			    $('#results').html('');
+			.done(function( data ) {
+				$('#results').html('');
 				var results = jQuery.parseJSON(data);
 				$(results).each(function(key, value) {
 					$("#results").show();
 					console.log(value);
 					var result = '<li class="item" id="' + key + '"><div class="result">' + value.image + '<span>' + value.error +  value.name + '</span><span>' + value.author + '</span><small><strong></strong> ' + value.category + '</small></div></li>';        
-					results.push($('#results').append(result));
+					$('#results').append(result);
 				})
 			});
 		}
