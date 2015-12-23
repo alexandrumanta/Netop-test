@@ -38,7 +38,7 @@ if (!$logged_in){
 			<div class="sidebar-menu-inner">
 				<header class="logo-env">
 					<div class="logo">
-						<a href="index.html" class="logo-expanded">
+						<a href="<?php echo HOST;?>" class="logo-expanded">
 							<img src="../assets/images/logo.png" width="100" alt="" />
 						</a>
 						<h1>Library</h1>
