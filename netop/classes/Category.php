@@ -31,7 +31,7 @@ class Category extends Common{
 	* @var 		string
 	* @access 	public
 	**/
-	static $order_field = "name";
+	static $order_field = "category_name";
 	
 	/**
     * Extrage categoria din tabela in functie de id-ul setat

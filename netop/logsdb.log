@@ -6154,3 +6154,5545 @@
 
 ----------------------------------------------------------------
 
+22.12.2015 19:34:46 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:47 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:47 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:47 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%asdd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:48 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:49 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%ale%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:49 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%ale%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:50 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%alex%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:51 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%alexa%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:51 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%alexasd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:51 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%alexasd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:51 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%alexasda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:52 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%alexasd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:52 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%alexas%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:52 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%alexa%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:52 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%alex%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:52 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%ale%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:56 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:56 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:56 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:34:56 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:35:13 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:35:13 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:35:14 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:35:14 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:35:15 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:35:15 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:35:16 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%gor%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:35:17 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%gori%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:35:18 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%gor%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:35:20 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%dus%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:35:20 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:36:24 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%dus%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:36:24 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:36:28 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%elio%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:36:28 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%elio%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:36:29 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%elion%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:14 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%dus%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:14 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:14 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%dust%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:14 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:14 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%dus%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:14 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:14 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%dus%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:14 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:18 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%eli%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:18 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%elion%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:18 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%elion%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:18 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%elio%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:19 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%eli%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:22 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:22 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:22 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:22 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:24 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:24 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:49 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:49 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:49 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:49 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:49 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:49 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:51 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%elio%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:51 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%elion%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:51 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%elion%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:51 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%elio%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:51 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%eli%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:52 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%dust%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:52 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:52 - MySQLi query
+	Query: SELECT * FROM books WHERE name like '%dust%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 19:54:52 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 20:38:38 - MySQLi query
+	Query: (SELECT name, author, 'book' as type FROM books WHERE name LIKE '%dus%' OR author LIKE '%dus%') 
+           UNION
+           (SELECT name, 'category' as type FROM categories WHERE name LIKE '%dus%')
+	Result: The used SELECT statements have a different number of columns
+
+----------------------------------------------------------------
+
+22.12.2015 20:38:38 - MySQLi query
+	Query: (SELECT name, author, 'book' as type FROM books WHERE name LIKE '%dust%' OR author LIKE '%dust%') 
+           UNION
+           (SELECT name, 'category' as type FROM categories WHERE name LIKE '%dust%')
+	Result: The used SELECT statements have a different number of columns
+
+----------------------------------------------------------------
+
+22.12.2015 20:38:38 - MySQLi query
+	Query: (SELECT name, author, 'book' as type FROM books WHERE name LIKE '%dus%' OR author LIKE '%dus%') 
+           UNION
+           (SELECT name, 'category' as type FROM categories WHERE name LIKE '%dus%')
+	Result: The used SELECT statements have a different number of columns
+
+----------------------------------------------------------------
+
+22.12.2015 20:39:05 - MySQLi query
+	Query: (SELECT name, author, 'book' as type FROM books WHERE name LIKE '%dust%' OR author LIKE '%dust%') 
+           UNION
+           (SELECT name, 'category' as type FROM categories WHERE name LIKE '%dust%')
+	Result: The used SELECT statements have a different number of columns
+
+----------------------------------------------------------------
+
+22.12.2015 20:39:05 - MySQLi query
+	Query: (SELECT name, author, 'book' as type FROM books WHERE name LIKE '%dust%' OR author LIKE '%dust%') 
+           UNION
+           (SELECT name, 'category' as type FROM categories WHERE name LIKE '%dust%')
+	Result: The used SELECT statements have a different number of columns
+
+----------------------------------------------------------------
+
+22.12.2015 20:39:05 - MySQLi query
+	Query: (SELECT name, author, 'book' as type FROM books WHERE name LIKE '%and%' OR author LIKE '%and%') 
+           UNION
+           (SELECT name, 'category' as type FROM categories WHERE name LIKE '%and%')
+	Result: The used SELECT statements have a different number of columns
+
+----------------------------------------------------------------
+
+22.12.2015 20:39:05 - MySQLi query
+	Query: (SELECT name, author, 'book' as type FROM books WHERE name LIKE '%andy%' OR author LIKE '%andy%') 
+           UNION
+           (SELECT name, 'category' as type FROM categories WHERE name LIKE '%andy%')
+	Result: The used SELECT statements have a different number of columns
+
+----------------------------------------------------------------
+
+22.12.2015 20:44:24 - MySQLi query
+	Query: SELECT 'name', 'author' as 'table' FROM books 
+WHERE name LIKE '%keyword%' 
+OR author LIKE '%keyword%'
+UNION
+SELECT 'name', as 'table' FROM categories
+WHERE name LIKE '%keyword%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'table' FROM categories
+WHERE name LIKE '%keyword%'' at line 5
+
+----------------------------------------------------------------
+
+22.12.2015 20:44:24 - MySQLi query
+	Query: SELECT 'name', 'author' as 'table' FROM books 
+WHERE name LIKE '%keyword%' 
+OR author LIKE '%keyword%'
+UNION
+SELECT 'name', as 'table' FROM categories
+WHERE name LIKE '%keyword%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'table' FROM categories
+WHERE name LIKE '%keyword%'' at line 5
+
+----------------------------------------------------------------
+
+22.12.2015 20:44:42 - MySQLi query
+	Query: SELECT 'name', 'author' as 'table' FROM books 
+WHERE name LIKE '%keyword%' 
+OR author LIKE '%keyword%'
+UNION
+SELECT 'name', as 'table' FROM categories
+WHERE name LIKE '%keyword%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'table' FROM categories
+WHERE name LIKE '%keyword%'' at line 5
+
+----------------------------------------------------------------
+
+22.12.2015 20:44:42 - MySQLi query
+	Query: SELECT 'name', 'author' as 'table' FROM books 
+WHERE name LIKE '%keyword%' 
+OR author LIKE '%keyword%'
+UNION
+SELECT 'name', as 'table' FROM categories
+WHERE name LIKE '%keyword%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as 'table' FROM categories
+WHERE name LIKE '%keyword%'' at line 5
+
+----------------------------------------------------------------
+
+22.12.2015 20:55:27 - MySQLi query
+	Query: SELECT books.name, books.author, books.price as books
+FROM books JOIN categories
+ON books.category_id=categories.id where books.name '%and%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%and%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 20:55:27 - MySQLi query
+	Query: SELECT books.name, books.author, books.price as books
+FROM books JOIN categories
+ON books.category_id=categories.id where books.name '%andy%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%andy%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 20:57:10 - MySQLi query
+	Query: SELECT books.name, books.author, books.price as books
+FROM books JOIN categories as categories
+ON books.category_id=categories.id where books.name '%and%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%and%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 20:57:11 - MySQLi query
+	Query: SELECT books.name, books.author, books.price as books
+FROM books JOIN categories as categories
+ON books.category_id=categories.id where books.name '%andy%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%andy%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:13:13 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name '%anf%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%anf%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:13:14 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name '%and%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%and%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:13:14 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name '%andy%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%andy%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:15:31 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name %and%
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and%' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:15:31 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name %andy%
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:16:14 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name %and%
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and%' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:16:14 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name %andy%
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:17:10 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name '%and%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%and%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:17:10 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name '%andy%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%andy%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:18:50 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name '%and%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%and%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:18:51 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name '%andy%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%andy%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:29:54 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name '%and%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%and%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:29:55 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name '%andy%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%andy%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:30:32 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name '%and%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%and%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:30:32 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name '%andy%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%andy%'' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 21:33:29 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:33:29 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:34:25 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:34:25 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+22.12.2015 21:34:25 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:34:25 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+22.12.2015 21:35:09 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:35:09 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:35:41 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%gol%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:35:41 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%gold%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:35:54 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%dus%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:35:54 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%dust%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:35:54 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%dust%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:36:06 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%eil%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:36:06 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%eilo%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:36:08 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%eilon%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:36:15 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%dus%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:36:15 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%dus%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:36:15 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%dust%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:36:24 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%eil%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:36:24 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%eilo%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 21:36:25 - MySQLi query
+	Query: SELECT book.name, book.author, book.price 
+FROM books as book JOIN categories as category
+ON book.category_id=category.id where book.name like '%eilon%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 23:49:30 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.category_id WHERE b.name LIKE '%and%'
+	Result: Unknown column 'c.category_id' in 'on clause'
+
+----------------------------------------------------------------
+
+22.12.2015 23:49:31 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.category_id WHERE b.name LIKE '%andy%'
+	Result: Unknown column 'c.category_id' in 'on clause'
+
+----------------------------------------------------------------
+
+22.12.2015 23:49:45 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.category_id WHERE b.name LIKE '%dus%'
+	Result: Unknown column 'c.category_id' in 'on clause'
+
+----------------------------------------------------------------
+
+22.12.2015 23:49:46 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.category_id WHERE b.name LIKE '%dust%'
+	Result: Unknown column 'c.category_id' in 'on clause'
+
+----------------------------------------------------------------
+
+22.12.2015 23:50:31 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 23:50:31 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 23:52:58 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name LIKE '%and%' OR 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 23:52:58 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name LIKE '%andy%' OR 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 3
+
+----------------------------------------------------------------
+
+22.12.2015 23:55:18 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 23:55:18 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 23:55:58 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andya%' OR c.name LIKE '%andya%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 23:55:59 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 23:55:59 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+22.12.2015 23:56:03 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%art%' OR c.name LIKE '%art%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:01:02 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%eil%' OR c.name 
+		LIKE '%eil%' OR b.author 
+		LIKE '%eil%' OR b.price
+		LIKE '%eil%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:01:02 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%eilo%' OR c.name 
+		LIKE '%eilo%' OR b.author 
+		LIKE '%eilo%' OR b.price
+		LIKE '%eilo%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:01:02 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%eilon%' OR c.name 
+		LIKE '%eilon%' OR b.author 
+		LIKE '%eilon%' OR b.price
+		LIKE '%eilon%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:05:12 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%eilo%' OR c.name 
+		LIKE '%eilo%' OR b.author 
+		LIKE '%eilo%' OR b.price
+		LIKE '%eilo%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:05:12 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%eil%' OR c.name 
+		LIKE '%eil%' OR b.author 
+		LIKE '%eil%' OR b.price
+		LIKE '%eil%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:05:14 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:05:14 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:06:09 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:06:09 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:06:09 - MySQLi query
+	Query: SELECT b.name, b.author, b.price 
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:06:09 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:07:38 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:07:38 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:07:38 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:07:38 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:08:19 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name,
+		b.id
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:08:19 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:08:19 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name,
+		b.id
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:08:19 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:09:44 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name,
+		b.id
+		FROM books as b LEFT JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:09:44 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:09:44 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name,
+		b.id
+		FROM books as b LEFT JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:09:44 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:10:22 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name,
+		b.id,
+		c,name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Unknown column 'c' in 'field list'
+
+----------------------------------------------------------------
+
+23.12.2015 00:10:22 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name,
+		b.id,
+		c,name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Unknown column 'c' in 'field list'
+
+----------------------------------------------------------------
+
+23.12.2015 00:10:37 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name,
+		b.id,
+		c,name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Unknown column 'c' in 'field list'
+
+----------------------------------------------------------------
+
+23.12.2015 00:11:03 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name,
+		b.id,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:11:03 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:11:03 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name,
+		b.id,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:11:03 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:15:46 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name,
+		FROM books as b LEFT JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM books as b LEFT JOIN categories as c
+		ON b.category_id = c.id WHERE b.nam' at line 6
+
+----------------------------------------------------------------
+
+23.12.2015 00:15:46 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name,
+		FROM books as b LEFT JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM books as b LEFT JOIN categories as c
+		ON b.category_id = c.id WHERE b.nam' at line 6
+
+----------------------------------------------------------------
+
+23.12.2015 00:16:29 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b LEFT JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:16:29 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:16:29 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b LEFT JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:16:29 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:16:50 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b INNER JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:16:50 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:16:50 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b INNER JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:16:50 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:19:17 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM categories as c JOIN books as b
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:19:17 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:19:17 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM categories as c JOIN books as b
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:19:17 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:19:55 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:19:55 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:20:38 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:20:38 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:20:38 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:20:38 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:20:50 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:20:50 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:20:50 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:20:50 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:20:52 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%dus%' OR c.name 
+		LIKE '%dus%' OR b.author 
+		LIKE '%dus%' OR b.price
+		LIKE '%dus%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:20:52 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:20:52 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%dust%' OR c.name 
+		LIKE '%dust%' OR b.author 
+		LIKE '%dust%' OR b.price
+		LIKE '%dust%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:20:52 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:21:34 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:21:34 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:21:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:21:35 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:22:02 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:22:02 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:22:02 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:22:02 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:28:00 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Unknown column 'c.name' in 'where clause'
+
+----------------------------------------------------------------
+
+23.12.2015 00:28:00 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Unknown column 'c.name' in 'where clause'
+
+----------------------------------------------------------------
+
+23.12.2015 00:28:42 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:28:42 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:28:42 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:28:42 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:45:31 - MySQLi query
+	Query: SELECT * FROM books ORDER BY name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:45:31 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 15
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:45:31 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:45:31 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:45:31 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:45:31 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:47:33 - MySQLi query
+	Query: SELECT * FROM books ORDER BY name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:47:33 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 15
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:47:33 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:47:33 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:47:33 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:47:33 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:47:38 - MySQLi query
+	Query: SELECT * FROM categories ORDER BY name ASC
+	Result: Unknown column 'name' in 'order clause'
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:16 - MySQLi query
+	Query: SELECT * FROM categories ORDER BY category_name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:21 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:22 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:22 - MySQLi query
+	Query: SELECT * FROM categories ORDER BY category_name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:24 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:27 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:28 - MySQLi query
+	Query: SELECT * FROM categories ORDER BY category_name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:30 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:34 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:34 - MySQLi query
+	Query: SELECT * FROM categories ORDER BY category_name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:42 - MySQLi query
+	Query: SELECT * FROM categories WHERE category_name = 'asdad'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:42 - MySQLi query
+	Query: SELECT * FROM categories ORDER BY category_name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:47 - MySQLi query
+	Query: SELECT * FROM categories ORDER BY category_name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:49 - MySQLi query
+	Query: SELECT * FROM books ORDER BY name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:49 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 15
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:49 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:49 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:49 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:49 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:01 - MySQLi query
+	Query: SELECT * FROM books ORDER BY name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:01 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 15
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:01 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:01 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:01 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:01 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:15 - MySQLi query
+	Query: SELECT * FROM books WHERE name = 'asdasd'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:58 - MySQLi query
+	Query: SELECT * FROM books WHERE name = 'asdada'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:58 - MySQLi query
+	Query: SELECT * FROM books ORDER BY name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:58 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 15
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:58 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 15
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:58 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:58 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:58 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:03 - MySQLi query
+	Query: SELECT * FROM books ORDER BY name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:03 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 15
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:03 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:03 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:03 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:03 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:39 - MySQLi query
+	Query: SELECT * FROM books ORDER BY name ASC
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:39 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 15
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:39 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 19
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:39 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:39 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:39 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 1
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:48 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%ady%' OR c.category_name 
+		LIKE '%ady%' OR b.author 
+		LIKE '%ady%' OR b.price
+		LIKE '%ady%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:50 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:50 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:50 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:50 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:53:04 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:53:04 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:53:04 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:53:04 - MySQLi query
+	Query: SELECT * FROM categories WHERE id = 
+	Result: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+----------------------------------------------------------------
+
+23.12.2015 00:53:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:53:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:53:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:55:16 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:55:16 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:56:11 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:56:11 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:56:13 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:56:20 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%dus%' OR c.category_name 
+		LIKE '%dus%' OR b.author 
+		LIKE '%dus%' OR b.price
+		LIKE '%dus%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:56:24 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%art%' OR c.category_name 
+		LIKE '%art%' OR b.author 
+		LIKE '%art%' OR b.price
+		LIKE '%art%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:56:24 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%arts%' OR c.category_name 
+		LIKE '%arts%' OR b.author 
+		LIKE '%arts%' OR b.price
+		LIKE '%arts%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:56:32 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%art%' OR c.category_name 
+		LIKE '%art%' OR b.author 
+		LIKE '%art%' OR b.price
+		LIKE '%art%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:56:37 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%rom%' OR c.category_name 
+		LIKE '%rom%' OR b.author 
+		LIKE '%rom%' OR b.price
+		LIKE '%rom%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:56:38 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%rom%' OR c.category_name 
+		LIKE '%rom%' OR b.author 
+		LIKE '%rom%' OR b.price
+		LIKE '%rom%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 00:56:38 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%roma%' OR c.category_name 
+		LIKE '%roma%' OR b.author 
+		LIKE '%roma%' OR b.price
+		LIKE '%roma%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:12:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:12:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:12:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasd%' OR c.category_name 
+		LIKE '%asdasd%' OR b.author 
+		LIKE '%asdasd%' OR b.price
+		LIKE '%asdasd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:12:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasda%' OR c.category_name 
+		LIKE '%asdasda%' OR b.author 
+		LIKE '%asdasda%' OR b.price
+		LIKE '%asdasda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:12:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:12:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasda%' OR c.category_name 
+		LIKE '%asdasda%' OR b.author 
+		LIKE '%asdasda%' OR b.price
+		LIKE '%asdasda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:12:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasda%' OR c.category_name 
+		LIKE '%asdasda%' OR b.author 
+		LIKE '%asdasda%' OR b.price
+		LIKE '%asdasda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:13:17 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:13:17 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:13:17 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:13:17 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:13:17 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadas%' OR c.category_name 
+		LIKE '%asdadas%' OR b.author 
+		LIKE '%asdadas%' OR b.price
+		LIKE '%asdadas%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:13:17 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadas%' OR c.category_name 
+		LIKE '%asdadas%' OR b.author 
+		LIKE '%asdadas%' OR b.price
+		LIKE '%asdadas%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:13:18 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadas%' OR c.category_name 
+		LIKE '%asdadas%' OR b.author 
+		LIKE '%asdadas%' OR b.price
+		LIKE '%asdadas%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:13:49 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:13:49 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:13:49 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:13:49 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:13:49 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:20 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:20 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:20 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:20 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadad%' OR c.category_name 
+		LIKE '%asdadad%' OR b.author 
+		LIKE '%asdadad%' OR b.price
+		LIKE '%asdadad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:20 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadada%' OR c.category_name 
+		LIKE '%asdadada%' OR b.author 
+		LIKE '%asdadada%' OR b.price
+		LIKE '%asdadada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:20 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadada%' OR c.category_name 
+		LIKE '%asdadada%' OR b.author 
+		LIKE '%asdadada%' OR b.price
+		LIKE '%asdadada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:21 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadada%' OR c.category_name 
+		LIKE '%asdadada%' OR b.author 
+		LIKE '%asdadada%' OR b.price
+		LIKE '%asdadada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:45 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:45 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:45 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:45 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadsa%' OR c.category_name 
+		LIKE '%asdadsa%' OR b.author 
+		LIKE '%asdadsa%' OR b.price
+		LIKE '%asdadsa%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:45 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadsa%' OR c.category_name 
+		LIKE '%asdadsa%' OR b.author 
+		LIKE '%asdadsa%' OR b.price
+		LIKE '%asdadsa%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:14:45 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadsa%' OR c.category_name 
+		LIKE '%asdadsa%' OR b.author 
+		LIKE '%asdadsa%' OR b.price
+		LIKE '%asdadsa%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:15:33 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%bvhj%' OR c.category_name 
+		LIKE '%bvhj%' OR b.author 
+		LIKE '%bvhj%' OR b.price
+		LIKE '%bvhj%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:15:33 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%bvhj%' OR c.category_name 
+		LIKE '%bvhj%' OR b.author 
+		LIKE '%bvhj%' OR b.price
+		LIKE '%bvhj%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:15:33 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%bvhj%' OR c.category_name 
+		LIKE '%bvhj%' OR b.author 
+		LIKE '%bvhj%' OR b.price
+		LIKE '%bvhj%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:15:33 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%bvhjhj%' OR c.category_name 
+		LIKE '%bvhjhj%' OR b.author 
+		LIKE '%bvhjhj%' OR b.price
+		LIKE '%bvhjhj%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:15:33 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%bvhjhj%' OR c.category_name 
+		LIKE '%bvhjhj%' OR b.author 
+		LIKE '%bvhjhj%' OR b.price
+		LIKE '%bvhjhj%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:06 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:06 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:06 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:06 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdas%' OR c.category_name 
+		LIKE '%asdas%' OR b.author 
+		LIKE '%asdas%' OR b.price
+		LIKE '%asdas%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:06 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasda%' OR c.category_name 
+		LIKE '%asdasda%' OR b.author 
+		LIKE '%asdasda%' OR b.price
+		LIKE '%asdasda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:06 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasda%' OR c.category_name 
+		LIKE '%asdasda%' OR b.author 
+		LIKE '%asdasda%' OR b.price
+		LIKE '%asdasda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:06 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasdada%' OR c.category_name 
+		LIKE '%asdasdada%' OR b.author 
+		LIKE '%asdasdada%' OR b.price
+		LIKE '%asdasdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:06 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasdada%' OR c.category_name 
+		LIKE '%asdasdada%' OR b.author 
+		LIKE '%asdasdada%' OR b.price
+		LIKE '%asdasdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:06 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasdadada%' OR c.category_name 
+		LIKE '%asdasdadada%' OR b.author 
+		LIKE '%asdasdadada%' OR b.price
+		LIKE '%asdasdadada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:06 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasdadada%' OR c.category_name 
+		LIKE '%asdasdadada%' OR b.author 
+		LIKE '%asdasdadada%' OR b.price
+		LIKE '%asdasdadada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:06 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasdadadad%' OR c.category_name 
+		LIKE '%asdasdadadad%' OR b.author 
+		LIKE '%asdasdadadad%' OR b.price
+		LIKE '%asdasdadadad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:06 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasdadadada%' OR c.category_name 
+		LIKE '%asdasdadadada%' OR b.author 
+		LIKE '%asdasdadadada%' OR b.price
+		LIKE '%asdasdadadada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:07 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdasdadadada%' OR c.category_name 
+		LIKE '%asdasdadadada%' OR b.author 
+		LIKE '%asdasdadadada%' OR b.price
+		LIKE '%asdasdadadada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:21 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:21 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:21 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:22 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadad%' OR c.category_name 
+		LIKE '%asdadad%' OR b.author 
+		LIKE '%asdadad%' OR b.price
+		LIKE '%asdadad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:22 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadada%' OR c.category_name 
+		LIKE '%asdadada%' OR b.author 
+		LIKE '%asdadada%' OR b.price
+		LIKE '%asdadada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:22 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadada%' OR c.category_name 
+		LIKE '%asdadada%' OR b.author 
+		LIKE '%asdadada%' OR b.price
+		LIKE '%asdadada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:22 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadada%' OR c.category_name 
+		LIKE '%asdadada%' OR b.author 
+		LIKE '%asdadada%' OR b.price
+		LIKE '%asdadada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:16:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:17:08 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:17:09 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:17:09 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:17:09 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:17:09 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:01 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:01 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:03 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andya%' OR c.category_name 
+		LIKE '%andya%' OR b.author 
+		LIKE '%andya%' OR b.price
+		LIKE '%andya%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:04 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andyaa%' OR c.category_name 
+		LIKE '%andyaa%' OR b.author 
+		LIKE '%andyaa%' OR b.price
+		LIKE '%andyaa%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:05 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andyaaa%' OR c.category_name 
+		LIKE '%andyaaa%' OR b.author 
+		LIKE '%andyaaa%' OR b.price
+		LIKE '%andyaaa%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:05 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andyaaaa%' OR c.category_name 
+		LIKE '%andyaaaa%' OR b.author 
+		LIKE '%andyaaaa%' OR b.price
+		LIKE '%andyaaaa%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:33 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:33 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:33 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:33 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadas%' OR c.category_name 
+		LIKE '%asdadas%' OR b.author 
+		LIKE '%asdadas%' OR b.price
+		LIKE '%asdadas%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:33 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadas%' OR c.category_name 
+		LIKE '%asdadas%' OR b.author 
+		LIKE '%asdadas%' OR b.price
+		LIKE '%asdadas%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:33 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdadas%' OR c.category_name 
+		LIKE '%asdadas%' OR b.author 
+		LIKE '%asdadas%' OR b.price
+		LIKE '%asdadas%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:34 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:35 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:36 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:18:36 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:11 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%hjb%' OR c.category_name 
+		LIKE '%hjb%' OR b.author 
+		LIKE '%hjb%' OR b.price
+		LIKE '%hjb%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:11 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%hjb%' OR c.category_name 
+		LIKE '%hjb%' OR b.author 
+		LIKE '%hjb%' OR b.price
+		LIKE '%hjb%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:11 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%hjb%' OR c.category_name 
+		LIKE '%hjb%' OR b.author 
+		LIKE '%hjb%' OR b.price
+		LIKE '%hjb%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:11 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%hjbjh%' OR c.category_name 
+		LIKE '%hjbjh%' OR b.author 
+		LIKE '%hjbjh%' OR b.price
+		LIKE '%hjbjh%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:11 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%hjbjhb%' OR c.category_name 
+		LIKE '%hjbjhb%' OR b.author 
+		LIKE '%hjbjhb%' OR b.price
+		LIKE '%hjbjhb%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:11 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%hjbjhb%' OR c.category_name 
+		LIKE '%hjbjhb%' OR b.author 
+		LIKE '%hjbjhb%' OR b.price
+		LIKE '%hjbjhb%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:27 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%jbkj%' OR c.category_name 
+		LIKE '%jbkj%' OR b.author 
+		LIKE '%jbkj%' OR b.price
+		LIKE '%jbkj%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:27 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%jbkjb%' OR c.category_name 
+		LIKE '%jbkjb%' OR b.author 
+		LIKE '%jbkjb%' OR b.price
+		LIKE '%jbkjb%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:27 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%jbkj%' OR c.category_name 
+		LIKE '%jbkj%' OR b.author 
+		LIKE '%jbkj%' OR b.price
+		LIKE '%jbkj%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:27 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%jbkjbkj%' OR c.category_name 
+		LIKE '%jbkjbkj%' OR b.author 
+		LIKE '%jbkjbkj%' OR b.price
+		LIKE '%jbkjbkj%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:27 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%jbkjbkjb%' OR c.category_name 
+		LIKE '%jbkjbkjb%' OR b.author 
+		LIKE '%jbkjbkjb%' OR b.price
+		LIKE '%jbkjbkjb%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:27 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%jbkjbkjb%' OR c.category_name 
+		LIKE '%jbkjbkjb%' OR b.author 
+		LIKE '%jbkjbkjb%' OR b.price
+		LIKE '%jbkjbkjb%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:27 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%jbkjbkjbk%' OR c.category_name 
+		LIKE '%jbkjbkjbk%' OR b.author 
+		LIKE '%jbkjbkjbk%' OR b.price
+		LIKE '%jbkjbkjbk%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:27 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%jbkjbkjbkb%' OR c.category_name 
+		LIKE '%jbkjbkjbkb%' OR b.author 
+		LIKE '%jbkjbkjbkb%' OR b.price
+		LIKE '%jbkjbkjbkb%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:27 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%jbkjbkjbkb%' OR c.category_name 
+		LIKE '%jbkjbkjbkb%' OR b.author 
+		LIKE '%jbkjbkjbkb%' OR b.price
+		LIKE '%jbkjbkjbkb%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:30 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:24:30 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:25:36 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:25:36 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:25:36 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:25:36 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:25:36 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:25:36 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:28:18 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:28:18 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:28:19 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:28:20 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:28:20 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:28:21 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:28:21 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:28:21 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:31:21 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:31:22 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:31:22 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:31:22 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:23 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%53.%' OR c.category_name 
+		LIKE '%53.%' OR b.author 
+		LIKE '%53.%' OR b.price
+		LIKE '%53.%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:23 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%53.%' OR c.category_name 
+		LIKE '%53.%' OR b.author 
+		LIKE '%53.%' OR b.price
+		LIKE '%53.%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:24 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%53.3%' OR c.category_name 
+		LIKE '%53.3%' OR b.author 
+		LIKE '%53.3%' OR b.price
+		LIKE '%53.3%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:24 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%53.3%' OR c.category_name 
+		LIKE '%53.3%' OR b.author 
+		LIKE '%53.3%' OR b.price
+		LIKE '%53.3%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:43 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:43 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:44 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:44 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:44 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:44 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdad%' OR c.category_name 
+		LIKE '%asdad%' OR b.author 
+		LIKE '%asdad%' OR b.price
+		LIKE '%asdad%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:44 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:44 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:44 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:44 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:44 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:32:44 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:07 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:07 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:07 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:07 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:07 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:07 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:11 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%53.%' OR c.category_name 
+		LIKE '%53.%' OR b.author 
+		LIKE '%53.%' OR b.price
+		LIKE '%53.%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:12 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%53.9%' OR c.category_name 
+		LIKE '%53.9%' OR b.author 
+		LIKE '%53.9%' OR b.price
+		LIKE '%53.9%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:13 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%53.93%' OR c.category_name 
+		LIKE '%53.93%' OR b.author 
+		LIKE '%53.93%' OR b.price
+		LIKE '%53.93%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:14 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%53.9%' OR c.category_name 
+		LIKE '%53.9%' OR b.author 
+		LIKE '%53.9%' OR b.price
+		LIKE '%53.9%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:14 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%53.%' OR c.category_name 
+		LIKE '%53.%' OR b.author 
+		LIKE '%53.%' OR b.price
+		LIKE '%53.%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:15 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:15 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:19 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%56.%' OR c.category_name 
+		LIKE '%56.%' OR b.author 
+		LIKE '%56.%' OR b.price
+		LIKE '%56.%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:19 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%56.9%' OR c.category_name 
+		LIKE '%56.9%' OR b.author 
+		LIKE '%56.9%' OR b.price
+		LIKE '%56.9%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:20 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%56.93%' OR c.category_name 
+		LIKE '%56.93%' OR b.author 
+		LIKE '%56.93%' OR b.price
+		LIKE '%56.93%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:21 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%56.9%' OR c.category_name 
+		LIKE '%56.9%' OR b.author 
+		LIKE '%56.9%' OR b.price
+		LIKE '%56.9%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:21 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%56.%' OR c.category_name 
+		LIKE '%56.%' OR b.author 
+		LIKE '%56.%' OR b.price
+		LIKE '%56.%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:28 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%56.%' OR c.category_name 
+		LIKE '%56.%' OR b.author 
+		LIKE '%56.%' OR b.price
+		LIKE '%56.%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:32 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%art%' OR c.category_name 
+		LIKE '%art%' OR b.author 
+		LIKE '%art%' OR b.price
+		LIKE '%art%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:33:33 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%arts%' OR c.category_name 
+		LIKE '%arts%' OR b.author 
+		LIKE '%arts%' OR b.price
+		LIKE '%arts%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:34:02 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%art%' OR c.category_name 
+		LIKE '%art%' OR b.author 
+		LIKE '%art%' OR b.price
+		LIKE '%art%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:34:02 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%arts%' OR c.category_name 
+		LIKE '%arts%' OR b.author 
+		LIKE '%arts%' OR b.price
+		LIKE '%arts%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:34:47 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%art%' OR c.category_name 
+		LIKE '%art%' OR b.author 
+		LIKE '%art%' OR b.price
+		LIKE '%art%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:34:47 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%arts%' OR c.category_name 
+		LIKE '%arts%' OR b.author 
+		LIKE '%arts%' OR b.price
+		LIKE '%arts%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:35:07 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%art%' OR c.category_name 
+		LIKE '%art%' OR b.author 
+		LIKE '%art%' OR b.price
+		LIKE '%art%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:35:07 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%arts%' OR c.category_name 
+		LIKE '%arts%' OR b.author 
+		LIKE '%arts%' OR b.price
+		LIKE '%arts%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:35:19 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:35:19 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asd%' OR c.category_name 
+		LIKE '%asd%' OR b.author 
+		LIKE '%asd%' OR b.price
+		LIKE '%asd%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:35:42 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:35:42 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asda%' OR c.category_name 
+		LIKE '%asda%' OR b.author 
+		LIKE '%asda%' OR b.price
+		LIKE '%asda%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:35:43 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:35:43 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:35:43 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%asdada%' OR c.category_name 
+		LIKE '%asdada%' OR b.author 
+		LIKE '%asdada%' OR b.price
+		LIKE '%asdada%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:35:48 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:35:48 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:36:01 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%and%' OR c.category_name 
+		LIKE '%and%' OR b.author 
+		LIKE '%and%' OR b.price
+		LIKE '%and%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:36:01 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%andy%' OR c.category_name 
+		LIKE '%andy%' OR b.author 
+		LIKE '%andy%' OR b.price
+		LIKE '%andy%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:36:09 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%gol%' OR c.category_name 
+		LIKE '%gol%' OR b.author 
+		LIKE '%gol%' OR b.price
+		LIKE '%gol%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:36:11 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%dus%' OR c.category_name 
+		LIKE '%dus%' OR b.author 
+		LIKE '%dus%' OR b.price
+		LIKE '%dus%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:36:15 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%roa%' OR c.category_name 
+		LIKE '%roa%' OR b.author 
+		LIKE '%roa%' OR b.price
+		LIKE '%roa%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:36:15 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%roam%' OR c.category_name 
+		LIKE '%roam%' OR b.author 
+		LIKE '%roam%' OR b.price
+		LIKE '%roam%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:36:16 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%roa%' OR c.category_name 
+		LIKE '%roa%' OR b.author 
+		LIKE '%roa%' OR b.price
+		LIKE '%roa%'
+	Result: Succes
+
+----------------------------------------------------------------
+
+23.12.2015 01:36:17 - MySQLi query
+	Query: SELECT 
+		b.name, 
+		b.author, 
+		b.price,
+		b.image,
+		c.category_name
+		FROM books as b JOIN categories as c
+		ON b.category_id = c.id WHERE b.name 
+		LIKE '%rom%' OR c.category_name 
+		LIKE '%rom%' OR b.author 
+		LIKE '%rom%' OR b.price
+		LIKE '%rom%'
+	Result: Succes
+
+----------------------------------------------------------------
+

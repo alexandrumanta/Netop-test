@@ -491,3 +491,36 @@
 
 ----------------------------------------------------------------
 
+23.12.2015 00:48:27 - Edited Romancei from categories by Manta Alex
+	category_name: Romancei
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:34 - Edited Romance from categories by Manta Alex
+	category_name: Romance
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:42 - Added asdad in categories by Manta Alex
+	category_name: asdad
+	id: 20
+
+----------------------------------------------------------------
+
+23.12.2015 00:48:47 - Deleted id 20 from categories by Manta Alex
+
+----------------------------------------------------------------
+
+23.12.2015 00:50:58 - Added  in books by Manta Alex
+	name: asdada
+	category_id: 15
+	author: 
+	price: 
+	id: 18
+
+----------------------------------------------------------------
+
+23.12.2015 00:51:03 - Deleted id 18 from books by Manta Alex
+
+----------------------------------------------------------------
+

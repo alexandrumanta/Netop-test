@@ -11,9 +11,9 @@ $( document ).ready(function() {
 				$(results).each(function(key, value) {
 					$("#results").show();
 					console.log(value);
-					var result = '<li class="item" id="' + key + '"><div class="result">' + value.image + '<span>' + value.error +  value.name + '</span><span>' + value.author + '</span><small><strong></strong> ' + value.category + '</small></div></li>';        
+					var result = '<li class="item" id="' + key + '"><div class="result">' + value.image + '<span>' + value.error +  value.name + '</span><span>' + value.author + '</span><small><strong></strong> ' + value.category + '</small><span>' + value.price + '</span</div></li>';        
 					$('#results').append(result);
-				})
+				});
 			});
 		}
 	});

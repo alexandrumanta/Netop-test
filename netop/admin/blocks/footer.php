@@ -17,7 +17,7 @@
 <link rel="stylesheet" href="<?php echo HOST;?>assets/css/bootstrap.min.css">
 <link rel="stylesheet" href="<?php echo HOST;?>assets/css/custom.css">
 
-<script src="<?php echo HOST; ?>assets/js/jquery-1.11.3.min.js"></script>
+<script src="<?php echo HOST; ?>assets/js/jquery-1.11.1.min.js"></script>
 <script src="<?php echo HOST;?>assets/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">

@@ -28,6 +28,9 @@ require("blocks/header.php");
                                 "name",
                                 "Aceasta carte exista in baza de date!"
                             )
+                    ),
+                    "category" => array(
+                        "required" => "Selecteaza categoria!"
                     )
                 );
                 try{
@@ -160,9 +163,9 @@ require("blocks/header.php");
 	                            	foreach ($categories as $category){
 	                            		if(($_GET['action'] == "edit") and ($category == $category->id)) {
 	                            			$selected='selected';
-	                            			echo "\t\t<option value=\"" . $category->id . "\" " . $selected . ">" . $category->name . "</option>\n"; 
+	                            			echo "\t\t<option value=\"" . $category->id . "\" " . $selected . ">" . $category->category_name . "</option>\n"; 
 	                            		}else{ 
-	                            			echo "\t\t<option value=\"" . $category->id . "\" >" . $category->name . "</option>\n"; 
+	                            			echo "\t\t<option value=\"" . $category->id . "\" >" . $category->category_name . "</option>\n"; 
 	                            		}
 	                            	}      
 
@@ -249,7 +252,7 @@ require("blocks/header.php");
                     echo "<td>{$book->name}</td>";
                     $category = new Category(); 
                     $category = $category->getCategory($book->category_id);
-                    echo "<td>{$category[0]->name}</td>";
+                    echo "<td>{$category[0]->category_name}</td>";
                     echo "<td>{$book->author}</td>";
                     echo "<td>";
                     $url = HOST . $book->image;

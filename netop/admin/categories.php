@@ -13,7 +13,7 @@ require("blocks/header.php");
     if(isset($_POST['delete'])){
         $categories = new Category;
         $categories->delete($_POST['category_id']);
-        $_SESSION['succes'] = "Categoria \"{$_POST['category_name']}\" a fost stearsa!";
+        $_SESSION['succes'] = "Categoria \"{$_POST['cat_name']}\" a fost stearsa!";
     }
 
     if(isset($_GET['action'])){
@@ -22,11 +22,11 @@ require("blocks/header.php");
             $title = "Adauga Categorie";
     		if (isset($_POST['send'])){
     			$data = array(
-                    "name" => array(
+                    "category_name" => array(
                         "required" => "Introduceti numele categoriei!",
                         "check_db" =>  array(
                                 "categories",
-                                "name",
+                                "category_name",
                                 "Aceasta categorie exista in baza de date!"
                             )
                     )
@@ -36,10 +36,10 @@ require("blocks/header.php");
                     //var_dump($errors);
                     if (!$errors){
                         $category = new Category;
-                        $category->name = $_POST['name'];
+                        $category->category_name = $_POST['category_name'];
                         $value = null;
                         if ($category->save($value) == 1){
-                            $_SESSION['succes'] = "Categoria \"{$category->name}\" a fost salvata!";
+                            $_SESSION['succes'] = "Categoria \"{$category->category_name}\" a fost salvata!";
                             header("Location: categories.php");
                             // $url = "categories.php";
                             // echo "<META HTTP-EQUIV=\"refresh\" content=\"0; URL=".$url."\"> ";
@@ -62,11 +62,11 @@ require("blocks/header.php");
             $categories = $categories->getCategory($id);
             foreach ($categories as $category) {
                 $category_id = $category->id;
-                $name = $category->name;
+                $category_name = $category->category_name;
             }
             if (isset($_POST['send'])){
                 $data = array(
-                    "name" => array("required" => "Introduceti numele categoriei!")
+                    "category_name" => array("required" => "Introduceti numele categoriei!")
                 );     
                 try{
                     $errors = Functions::Validate($data, $_POST);
@@ -74,9 +74,9 @@ require("blocks/header.php");
                     if (!$errors){
                         $category = new Category;
                         $id = $_GET['id'];
-                        $category->name = $_POST['name'];
+                        $category->category_name = $_POST['category_name'];
                         if ($category->save($_GET['id']) == 1){
-                            $_SESSION['succes'] = "Categoria \"{$category->name}\" a fost editata!";
+                            $_SESSION['succes'] = "Categoria \"{$category->category_name}\" a fost editata!";
                             header("Location: categories.php");
                         }else{
                             header("Location: categories.php");
@@ -112,7 +112,7 @@ require("blocks/header.php");
                         <form style="clear: both" class="form-default" action="categories.php?action=<?php echo $action; ?>" method="POST">
                             <div class="form-group">
                                 <label class="control-label">Numele Categoriei</label>
-                                <input type="text" class="form-control" name="name" id="name" value="<?php if($_GET['action'] == "edit"){echo $name;}?>" />
+                                <input type="text" class="form-control" name="category_name" id="category_name" value="<?php if($_GET['action'] == "edit"){echo $category_name;}?>" />
                             </div>
 
                             <div class="form-group">
@@ -171,7 +171,7 @@ require("blocks/header.php");
                     $cnt++;    
                     echo "<tr>";
                     echo "<td>{$cnt}</td>";
-                    echo "<td>{$category->name}</td>";
+                    echo "<td>{$category->category_name}</td>";
                     echo "
                         <td>
                             <a class=\"btn btn-icon btn-warning edit\" href=\"categories.php?action=edit&id={$category->id}\">
@@ -180,7 +180,7 @@ require("blocks/header.php");
                         ?>
                         <form id="delete" method="post" action="">
                             <input type="hidden" name="category_id" value="<?php echo $category->id; ?>"/> 
-                            <input type="hidden" name="category_name" value="<?php echo $category->name; ?>"/> 
+                            <input type="hidden" name="cat_name" value="<?php echo $category->category_name; ?>"/> 
                             <input type="hidden" name="delete" value="true"/>
                             <button id="remove" type="submit" value="Delete" class="btn btn-icon btn-red delete" onclick="return ConfirmDelete()">
                                 <i class="fa fa-trash"></i>
